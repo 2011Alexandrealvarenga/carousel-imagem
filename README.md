@@ -1,4 +1,4 @@
 # carousel-imagem
 
-    <img src="captura.png" alt="">
+      <img src="captura.png">
     
