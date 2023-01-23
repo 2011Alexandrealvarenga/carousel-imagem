@@ -1,3 +1,3 @@
 # carousel-imagem
 
-    <img src="Capturar.PNG" alt="">
+    <img src="capturar.jpg" alt="">
